@@ -1,0 +1,13 @@
+[{
+    "author": "Olivier Auverlot",
+    "version": "1.0",
+    "name": "Chrome Toolkit",
+    "url": "https://github.com/olivierauverlot/Codiad-ChromeToolkit",
+    "config": [{
+        "file": "dialog_settings.php",
+        "icon": "icon-list-add",
+        "title": "Chrome Toolkit"
+    }],
+    "rightbar": [ ],
+    "contextmenu": [ ]
+}]
