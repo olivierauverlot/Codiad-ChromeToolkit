@@ -2,11 +2,11 @@
 
 A toolkit to build Chrome applications, Chrome extensions or web apps.
 
-##Installation
+## Installation
 
 - Download the zip file and unzip it to your plugin folder.
 
-##Tools
+## Tools
 
 * Project builder for Chrome apps, Chrome extensions and web apps
 
